@@ -1,2 +1,2 @@
 # projet_notebook
-Malo Héry &amp; Thibaud Jérôme
+Conçu par Malo Héry &amp; Thibaud Jérôme
